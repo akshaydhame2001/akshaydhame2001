@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **akshaydhame2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18ZzUaBC_mdyVkA719wak3be0A29RMId9/view?usp=drive_link](https://drive.google.com/file/d/18ZzUaBC_mdyVkA719wak3be0A29RMId9/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18ZzUaBC_mdyVkA719wak3be0A29RMId9/view?usp=drive_link](https://drive.google.com/file/d/1VBnwOT1TWHhUlBNlntTQJaSH_i9370BF/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
