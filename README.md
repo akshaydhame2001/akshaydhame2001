@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js, Node,js**
 
-- 👨‍💻 All of my projects are available at [portfolio3-d-tau.vercel.app](portfolio3-d-tau.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio3-d-tau.vercel.app/)
 
 - 💬 Ask me about **React.js**
 
