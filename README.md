@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio3-d-tau.vercel.app/)
 
-- 💬 Ask me about **Deep Learning, Generative AI, React.js**
+- 💬 Ask me about **Deep Learning, Generative AI, React.js, Python**
 
 - 📫 How to reach me **akshaydhame2001@gmail.com**
 
