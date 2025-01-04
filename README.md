@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **web apps**
 
-- 🌱 I’m currently learning **Next.js, Node,js**
+- 🌱 I’m currently learning **DevOps and MLOps**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio3-d-tau.vercel.app/)
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **Deep Learning, Generative AI, React.js**
 
 - 📫 How to reach me **akshaydhame2001@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/18ZzUaBC_mdyVkA719wak3be0A29RMId9/view?usp=drive_link](https://drive.google.com/file/d/1VBnwOT1TWHhUlBNlntTQJaSH_i9370BF/view?usp=drive_link)](https://drive.google.com/file/d/1ZaiqHmWITmvb09YWJuCyWkgt26l3m_0f/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZaiqHmWITmvb09YWJuCyWkgt26l3m_0f/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
